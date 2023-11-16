@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: rgb(86, 86, 232);
+    margin: 1rem;
+}
+
+#message{
+    color: black;
+    font-size: 1rem;
+    margin: 1rem;
+}
