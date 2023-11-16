@@ -13,13 +13,19 @@ const first_name = prompt('Type here your first name');
 console.log(first_name);
 
 // ask user for surname
-const surname = prompt('Type here your surname')
+const surname = prompt('Type here your surname');
 
 // log prompt 'surname' in console
 console.log(surname);
 
+// ask for 'favourite colour' in console
+const favourite_colour = prompt('Type here your favourite colour');
+
+// log prompt 'favourite colour' in console
+console.log(favourite_colour);
+
 // create variable password
-const password = first_name + surname + 23
+const password = first_name + surname + favourite_colour + 23;
 
 // log variable 'password' in console
 console.log(password);
