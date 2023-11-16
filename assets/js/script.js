@@ -32,6 +32,6 @@ console.log(password);
 
 // print 'password' in document
 
-const messageElement = document.getElementById('message'); 
+const passwordElement = document.getElementById('password'); 
 
-messageElement.innerHTML = `La tua password è: ${password}`;
+passwordElement.innerHTML = `La tua password è: ${password}`;
