@@ -25,7 +25,7 @@ const favourite_colour = prompt('Type here your favourite colour');
 console.log(favourite_colour);
 
 // create variable password
-const password = first_name + surname + favourite_colour + 23;
+const password = first_name + surname + favourite_colour + "23";
 
 // log variable 'password' in console
 console.log(password);
